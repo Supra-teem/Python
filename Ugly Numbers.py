@@ -1,3 +1,4 @@
+#this program helps to find the Nth Ugly Number using Dynamic Prog
 global m2,m3,m5,i2,i3,i5
 i2=i3=i5=0
 n=int(input("n= "))
